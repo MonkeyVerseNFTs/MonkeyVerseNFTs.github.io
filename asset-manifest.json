@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.231ff705.css",
+    "main.js": "/static/js/main.830d95b4.js",
+    "static/css/641.796df9ff.chunk.css": "/static/css/641.796df9ff.chunk.css",
+    "static/js/641.b2cc7c29.chunk.js": "/static/js/641.b2cc7c29.chunk.js",
+    "static/js/96.2517f430.chunk.js": "/static/js/96.2517f430.chunk.js",
+    "static/js/551.5cd52da7.chunk.js": "/static/js/551.5cd52da7.chunk.js",
+    "static/js/431.07761ffa.chunk.js": "/static/js/431.07761ffa.chunk.js",
+    "static/js/165.a4f5678c.chunk.js": "/static/js/165.a4f5678c.chunk.js",
+    "static/media/0002.png": "/static/media/0002.ed579066149faca84247.png",
+    "static/media/0001.png": "/static/media/0001.e1da84b26aa84e6e0cd1.png",
+    "static/media/0009.png": "/static/media/0009.ea580750f55718737e10.png",
+    "static/media/0006.png": "/static/media/0006.c5fa9dbe8f72b83b749a.png",
+    "static/media/0003.png": "/static/media/0003.c93803daa9517131c978.png",
+    "static/media/0007.png": "/static/media/0007.412cd70cadb92cb6f2ba.png",
+    "static/media/0005.png": "/static/media/0005.3348ae3c3f2b3a976b0d.png",
+    "static/media/0008.png": "/static/media/0008.4f4e94415f28c4d6ddaa.png",
+    "static/media/background.png": "/static/media/background.3d836108a798797545f7.png",
+    "static/media/0039.png": "/static/media/0039.2184cf37c4920da1b20e.png",
+    "static/media/0004.png": "/static/media/0004.5b5a47ced9d726c22fb9.png",
+    "static/media/0010.png": "/static/media/0010.e15edbb5e6bedcf38ea2.png",
+    "static/media/gloria-hallelujah-all-400-normal.woff": "/static/media/gloria-hallelujah-all-400-normal.c4ec7130db7e719e5b44.woff",
+    "static/media/gloria-hallelujah-latin-400-normal.woff2": "/static/media/gloria-hallelujah-latin-400-normal.46e5af6a235f8f3ecbc4.woff2",
+    "static/media/banana.png": "/static/media/banana.8a70d90f916cc72e6ebc.png",
+    "static/media/Arrow.svg": "/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
+    "index.html": "/index.html",
+    "static/media/Ethereum.svg": "/static/media/Ethereum.44caf7f687ceac7228b187be67a0a151.svg",
+    "main.231ff705.css.map": "/static/css/main.231ff705.css.map",
+    "main.830d95b4.js.map": "/static/js/main.830d95b4.js.map",
+    "641.796df9ff.chunk.css.map": "/static/css/641.796df9ff.chunk.css.map",
+    "641.b2cc7c29.chunk.js.map": "/static/js/641.b2cc7c29.chunk.js.map",
+    "96.2517f430.chunk.js.map": "/static/js/96.2517f430.chunk.js.map",
+    "551.5cd52da7.chunk.js.map": "/static/js/551.5cd52da7.chunk.js.map",
+    "431.07761ffa.chunk.js.map": "/static/js/431.07761ffa.chunk.js.map",
+    "165.a4f5678c.chunk.js.map": "/static/js/165.a4f5678c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231ff705.css",
+    "static/js/main.830d95b4.js"
+  ]
+}
